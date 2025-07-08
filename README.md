@@ -4,10 +4,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```kotlin
-val AliMohammadzadeh = mapOf(
-  pronouns to "he" | "man",
-  code to [Android(Kotlin, Compose) - Flutter - CMP - Go],
-  tools to [Android Studio, Vscode, git],
+val AliMohammadzadeh = mapOf<String, Any>(
+  "pronouns" to "he" | "man",
+  "code" to ["Android(Kotlin, Compose)", "Flutter", "CMP" - "Go"],
+  "tools" to ["Android Studio", "Vscode", "git"],
 )
 ```
 
