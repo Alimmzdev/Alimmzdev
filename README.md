@@ -3,12 +3,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const AliMohammadzadeh = {
-  pronouns: "he" | "man",
-  code: [Javascript, React, Next, Flutter, Nodejs],
-  tools: [git],
-}
+```kotlin
+val AliMohammadzadeh = mapOf(
+  pronouns to "he" | "man",
+  code to [Android(Kotlin, Compose) - Flutter - CMP - Go],
+  tools to [Android Studio, Vscode, git],
+)
 ```
 
 <h3 align="left">Skills and Languages and Tools:</h3>
