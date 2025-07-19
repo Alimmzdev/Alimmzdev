@@ -19,9 +19,9 @@ val AliMohammadzadeh = mapOf<String, Any>(
 
 <p align="left"> <a href="https://twitter.com/alimmz__" target="blank"><img src="https://img.shields.io/twitter/follow/alimmz__?logo=twitter&style=for-the-badge" alt="alimmz__" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, express.js**
+- 🌱 I’m currently learning **GoLang**
 
-- 💬 Ask me about **react, next, flutter**
+- 💬 Ask me about **Android Native, Flutter, Ios Native, GoLang**
 
 - 📫 How to reach me **ali24mohammadzadeh@gmail.com**
 
