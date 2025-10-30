@@ -1,43 +1,128 @@
-<h1 align="center">Hi 👋, I'm Ali Mohammadzadeh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
-<h3 align="center">I'm React\Next & Flutter Dedveloper</h3>
+<h1 align="center">Hi 👋, I'm Ali Mohammadzadeh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="center">Android Developer | Kotlin Specialist | Mobile Architecture Enthusiast</h3>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Android+Native+Developer;Kotlin+%26+Jetpack+Compose;Learning+iOS+%26+Swift;Clean+Architecture+Advocate" alt="Typing SVG" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Alimmzdev&label=Profile%20views&color=0e75b6&style=flat" alt="Alimmzdev" /> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Alimmzdev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Alimmzdev" />
+  </a>
+</p>
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```kotlin
-val AliMohammadzadeh = mapOf<String, Any>(
-  "pronouns" to "he" | "man",
-  "code" to ["Android(Kotlin, Compose)", "Flutter", "CMP" - "Go"],
-  "tools" to ["Android Studio", "Vscode", "git"],
+val aliMohammadzadeh = Developer(
+    name = "Ali Mohammadzadeh",
+    pronouns = "he/him",
+    currentRole = "Android Developer @ Crypto Exchange (1M+ users)",
+    code = listOf(
+        "Kotlin", "Jetpack Compose", "Coroutines", "Flow",
+        "Swift", "SwiftUI", "Flutter", "Dart"
+    ),
+    architecture = listOf("MVI", "MVVM", "Clean Architecture"),
+    tools = listOf(
+        "Android Studio", "Xcode", "Git", "Gradle",
+        "Firebase", "Retrofit", "Hilt", "Room"
+    ),
+    currentlyLearning = listOf("iOS Development", "Swift", "SwiftUI", "Combine"),
+    challenge = "Building seamless experiences across Android & iOS"
 )
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohammadzadeh24&label=Profile%20views&color=0e75b6&style=flat" alt="alimohammadzadeh24" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimohammadzadeh24" alt="alimohammadzadeh24" /></a> </p>
+### 💼 Professional Experience
 
-<p align="left"> <a href="https://twitter.com/alimmz__" target="blank"><img src="https://img.shields.io/twitter/follow/alimmz__?logo=twitter&style=for-the-badge" alt="alimmz__" /></a> </p>
+- 🏢 **Android Developer** at a leading cryptocurrency exchange serving **1M+ active users**
+- 🚀 Building scalable, high-performance Android applications
+- 🧩 Implementing **Clean Architecture** and modern design patterns
+- 🔐 Focused on **app security** and **performance optimization**
 
-- 🌱 I’m currently learning **GoLang**
+---
 
-- 💬 Ask me about **Android Native, Flutter, Ios Native, GoLang**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **ali24mohammadzadeh@gmail.com**
+#### Mobile Development
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+#### Tools & Technologies
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+
+- 🍎 **Swift & SwiftUI** - Expanding into iOS development
+- 📱 **iOS Architecture** - Navigation patterns and state management
+- ⚡ **Performance Optimization** - Advanced Android techniques
+- 🔄 **Compose Multiplatform** - Future cross-platform goal
+
+---
+
+### 💬 Ask Me About
+
+- **Android Native Development** (Kotlin, Jetpack Compose)
+- **Mobile Architecture** (MVI, MVVM, Clean Architecture)
+- **iOS Development** (Swift, SwiftUI)
+- **Flutter & Cross-platform Development**
+- **App Performance & Security**
+
+---
+
+### 📫 How to Reach Me
+
 <p align="left">
 <a href="https://twitter.com/alimmz__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimmz__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alimmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimmz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alimmzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimmzdev" height="30" width="40" /></a>
 <a href="https://instagram.com/alimmzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimmzdev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/alimmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alimmz" height="30" width="40" /></a>
 <a href="https://discord.gg/Ali.M#0973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0973" height="30" width="40" /></a>
 </p>
 
+📧 Email: **ali24mohammadzadeh@gmail.com**
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimohammadzadeh24&" alt="alimohammadzadeh24" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimohammadzadeh24&show_icons=true&locale=en" alt="alimohammadzadeh24" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimmzdev&theme=radical" alt="Alimmzdev" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimohammadzadeh24&show_icons=true&locale=en&layout=compact" alt="alimohammadzadeh24" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alimmzdev&show_icons=true&theme=radical&locale=en" alt="Alimmzdev" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alimmzdev&show_icons=true&theme=radical&locale=en&layout=compact" alt="Alimmzdev" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Alimmzdev">Ali Mohammadzadeh</a> - Building experiences that connect people, one app at a time.</i>
+</p>
