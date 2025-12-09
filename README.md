@@ -37,13 +37,14 @@ val aliMohammadzadeh = Developer(
 
 ## 💼 Work Experience
 
-| Role | Company | Period | Details |
-| :--- | :--- | :--- | :--- |
-| **Flutter Developer** | **Bulut** (On-site) | Sep 2025 - Present | • Developing B2B applications<br>• Refactoring and maintaining legacy codebases<br>🔧 *Microsoft Azure, GetX* |
-| **Android Developer** | **Bit24** (On-site) | Sep 2024 - Sep 2025 | • Developed crypto exchange app (1M+ users)<br>• Developed new features<br>🔧 *Kotlin Coroutines, Android SDK* |
-| **Android Developer** | **Abron Studio** (Remote) | Mar 2025 - Apr 2025 | • Full-time engagement<br>🔧 *Android Development* |
-| **Flutter Developer** | **Abron Studio** (Remote) | Oct 2024 - Mar 2025 | • Developing cross-platform projects using Flutter & Kotlin<br>• Utilizing development best practices |
-| **Flutter Developer** | **Resoluship Inc.** | *Full-time* | [Check LinkedIn for details] |
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| **Flutter Developer** | **Bulut** (On-site) | Sep 2025 - Present |
+| **Android Developer** | **Bit24** (On-site) | Sep 2024 - Sep 2025 |
+| **Android Developer** | **Abron Studio** (Remote) | Mar 2025 - Apr 2025 |
+| **Flutter Developer** | **Abron Studio** (Remote) | Oct 2024 - Mar 2025 |
+| **Flutter Developer** | **Resoluship Inc.** | June 2024 - Sep 2024 |
+| **Flutter Developer** | **Punas** | Sep 2023 - June 2024 |
 
 ### 🔗 Let's Connect
 <a href="https://www.linkedin.com/in/alimmz">
