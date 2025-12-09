@@ -17,22 +17,40 @@
 val aliMohammadzadeh = Developer(
     name = "Ali Mohammadzadeh",
     pronouns = "he/him",
-    currentRole = "Android Developer @ Crypto Exchange (1M+ users)",
     code = listOf(
         "Kotlin", "Jetpack Compose", "Coroutines", "Flow",
         "Swift", "SwiftUI", "Flutter", "Dart"
     ),
     architecture = listOf("MVI", "MVVM", "Clean Architecture"),
     tools = listOf(
-        "Android Studio", "Xcode", "Git", "Gradle",
-        "Firebase", "Retrofit", "Hilt", "Room"
+        "Android Studio", "Git", "Gradle",
+        "Firebase", "Retrofit", "Ktor", "Hilt", "Koin", "Room"
     ),
-    currentlyLearning = listOf("iOS Development", "Swift", "SwiftUI", "Combine"),
-    challenge = "Building seamless experiences across Android & iOS"
+    currentlyLearning = "Always Android",
+    challenge = "Building seamless experiences across Android"
 )
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+## 💼 Work Experience
+
+| Role | Company | Period | Details |
+| :--- | :--- | :--- | :--- |
+| **Flutter Developer** | **Bulut** (On-site) | Sep 2025 - Present | • Developing B2B applications<br>• Refactoring and maintaining legacy codebases<br>🔧 *Microsoft Azure, GetX* |
+| **Android Developer** | **Bit24** (On-site) | Sep 2024 - Sep 2025 | • Developed crypto exchange app (1M+ users)<br>• Developed new features<br>🔧 *Kotlin Coroutines, Android SDK* |
+| **Android Developer** | **Abron Studio** (Remote) | Mar 2025 - Apr 2025 | • Full-time engagement<br>🔧 *Android Development* |
+| **Flutter Developer** | **Abron Studio** (Remote) | Oct 2024 - Mar 2025 | • Developing cross-platform projects using Flutter & Kotlin<br>• Utilizing development best practices |
+| **Flutter Developer** | **Resoluship Inc.** | *Full-time* | [Check LinkedIn for details] |
+
+### 🔗 Let's Connect
+<a href="https://www.linkedin.com/in/alimmz">
+  <img src="https://img.shields.io/badge/Ali_Mohammadzadeh-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Ali Mohammadzadeh LinkedIn" />
+</a>
+<br>
+Visit my profile for more details!
 
 ---
 
