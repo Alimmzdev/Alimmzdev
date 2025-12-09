@@ -9,12 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=Alimmzdev&label=Profile%20views&color=0e75b6&style=flat" alt="Alimmzdev" /> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Alimmzdev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Alimmzdev" />
-  </a>
-</p>
-
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
