@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Alimmzdev&label=Profile%20views&color=0e75b6&style=flat" alt="Alimmzdev" /> 
+  <img src="https://komarev.com/ghpvc/?username=Nullexdev&label=Profile%20views&color=0e75b6&style=flat" alt="Nullexdev" /> 
 </p>
 
 ---
@@ -47,7 +47,7 @@ val aliMohammadzadeh = Developer(
 | **Flutter Developer** | **Punas** | Sep 2023 - June 2024 |
 
 ### 🔗 Let's Connect
-<a href="https://www.linkedin.com/in/alimmz">
+<a href="https://www.linkedin.com/in/Nullexdev">
   <img src="https://img.shields.io/badge/Ali_Mohammadzadeh-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Ali Mohammadzadeh LinkedIn" />
 </a>
 <br>
@@ -105,29 +105,26 @@ Visit my profile for more details!
 ### 📫 How to Reach Me
 
 <p align="left">
-<a href="https://twitter.com/alimmz__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimmz__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alimmzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimmzdev" height="30" width="40" /></a>
-<a href="https://instagram.com/alimmzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimmzdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alimmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alimmz" height="30" width="40" /></a>
-<a href="https://discord.gg/Ali.M#0973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0973" height="30" width="40" /></a>
+<a href="https://x.com/Nullexdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Nullexdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nullexdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nullexdev" height="30" width="40" /></a>
 </p>
 
-📧 Email: **ali24mohammadzadeh@gmail.com**
+📧 Email: **Nullexdev@gmail.com**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimmzdev&theme=radical" alt="Alimmzdev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nullexdev&theme=radical" alt="Nullexdev" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alimmzdev&show_icons=true&theme=radical&locale=en" alt="Alimmzdev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nullexdev&show_icons=true&theme=radical&locale=en" alt="Nullexdev" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alimmzdev&show_icons=true&theme=radical&locale=en&layout=compact" alt="Alimmzdev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nullexdev&show_icons=true&theme=radical&locale=en&layout=compact" alt="Nullexdev" />
 </p>
 
 ---
@@ -137,5 +134,5 @@ Visit my profile for more details!
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Alimmzdev">Ali Mohammadzadeh</a> - Building experiences that connect people, one app at a time.</i>
+  <i>⭐️ From <a href="https://github.com/Nullexdev">Ali Mohammadzadeh</a> - Building experiences that connect people, one app at a time.</i>
 </p>
