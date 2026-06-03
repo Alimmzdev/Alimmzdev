@@ -1,138 +1,116 @@
-<h1 align="center">Hi 👋, I'm Ali Mohammadzadeh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">Android Developer | Kotlin Specialist | Mobile Architecture Enthusiast</h3>
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=200&section=header&text=Ali%20%7C%20Nullexdev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Android%20apps%20with%20Kotlin%20%7C%20Open%20to%20remote%20opportunities&descAlignY=58&descAlign=50" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Android+Native+Developer;Kotlin+%26+Jetpack+Compose;Clean+Architecture+Advocate" alt="Typing SVG" />
-</p>
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%A4%96;Kotlin+%26+KMP+Enthusiast+%E2%9A%A1;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F;Open+to+International+Remote+Work+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Nullexdev&label=Profile%20views&color=0e75b6&style=flat" alt="Nullexdev" /> 
-</p>
+<br/>
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+## 👨‍💻 About Me
 
 ```kotlin
-val aliMohammadzadeh = Developer(
-    name = "Ali Mohammadzadeh",
-    pronouns = "he/him",
-    code = listOf(
-        "Kotlin", "Jetpack Compose", "Coroutines", "Flow",
-        "Swift", "SwiftUI", "Flutter", "Dart"
-    ),
-    architecture = listOf("MVI", "MVVM", "Clean Architecture"),
-    tools = listOf(
-        "Android Studio", "Git", "Gradle",
-        "Firebase", "Retrofit", "Ktor", "Hilt", "Koin", "Room"
-    ),
-    currentlyLearning = "Always Android",
-    challenge = "Building seamless experiences across Android"
+data class Developer(
+    val name: String = "Ali",
+    val handle: String = "Nullexdev",
+    val role: String = "Native Android Developer",
+    val languages: List<String> = listOf("Kotlin", "Java"),
+    val currentFocus: String = "Kotlin Multiplatform & Clean Architecture",
+    val lookingFor: String = "International Remote Opportunities",
+    val funFact: String = "I read JVM bytecode for fun 🤓"
 )
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- 🏢 Worked at a **[Bit24.cash](https://bit24.cash) crypto exchange** — built production-grade Android apps at scale
+- 📚 Currently diving deep into **JVM internals & bytecode**
+- 🌍 Targeting **remote-first companies** that value clean, maintainable code
 
 ---
 
-## 💼 Work Experience
+## 🛠️ Tech Stack
 
-| Role | Company | Period |
-| :--- | :--- | :--- |
-| **Flutter Developer** | **Bulut** (On-site) | Sep 2025 - Present |
-| **Android Developer** | **Bit24** (On-site) | Sep 2024 - Sep 2025 |
-| **Android Developer** | **Abron Studio** (Remote) | Mar 2025 - Apr 2025 |
-| **Flutter Developer** | **Abron Studio** (Remote) | Oct 2024 - Mar 2025 |
-| **Flutter Developer** | **Resoluship Inc.** | June 2024 - Sep 2024 |
-| **Flutter Developer** | **Punas** | Sep 2023 - June 2024 |
-
-### 🔗 Let's Connect
-<a href="https://www.linkedin.com/in/Nullexdev">
-  <img src="https://img.shields.io/badge/Ali_Mohammadzadeh-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Ali Mohammadzadeh LinkedIn" />
-</a>
-<br>
-Visit my profile for more details!
-
----
-
-### 💼 Professional Experience
-
-- 🏢 **Android Developer** at a leading cryptocurrency exchange serving **1M+ active users**
-- 🚀 Building scalable, high-performance Android applications
-- 🧩 Implementing **Clean Architecture** and modern design patterns
-- 🔐 Focused on **app security** and **performance optimization**
-
----
-
-### 🛠️ Tech Stack
-
-#### Mobile Development
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+### Core
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Architecture & Patterns
+![MVVM](https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1a1a2e?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-6C63FF?style=for-the-badge)
+
+### Jetpack & UI
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Navigation](https://img.shields.io/badge/Navigation%20Component-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-#### Tools & Technologies
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+### Async & DI
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Kotlin%20Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-F7821B?style=for-the-badge)
 
----
+### Networking & Storage
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20DB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 📚 Currently Learning
+### Multiplatform
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-- 🍎 **Swift & SwiftUI** - Expanding into iOS development
-- 📱 **iOS Architecture** - Navigation patterns and state management
-- ⚡ **Performance Optimization** - Advanced Android techniques
-- 🔄 **Compose Multiplatform** - Future cross-platform goal
-
----
-
-### 💬 Ask Me About
-
-- **Android Native Development** (Kotlin, Jetpack Compose)
-- **Mobile Architecture** (MVI, MVVM, Clean Architecture)
-- **iOS Development** (Swift, SwiftUI)
-- **Flutter & Cross-platform Development**
-- **App Performance & Security**
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-### 📫 How to Reach Me
+## 🚀 Featured Projects
 
-<p align="left">
-<a href="https://x.com/Nullexdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Nullexdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nullexdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nullexdev" height="30" width="40" /></a>
-</p>
+> Open-source Android projects — check the pinned repositories below for the full list!
 
-📧 Email: **Nullexdev@gmail.com**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nullexdev&theme=radical" alt="Nullexdev" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nullexdev&show_icons=true&theme=radical&locale=en" alt="Nullexdev" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nullexdev&show_icons=true&theme=radical&locale=en&layout=compact" alt="Nullexdev" />
-</p>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔧 **CineMood** | Discover Movies By Your Mood | Kotlin Multiplatform · Compose Multiplatform |
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Nullexdev">Ali Mohammadzadeh</a> - Building experiences that connect people, one app at a time.</i>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nullexdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullexdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nullexdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nullexdev&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nullexdev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nullexdev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nullexdev@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1a2e&height=100&section=footer" />
+</div>
